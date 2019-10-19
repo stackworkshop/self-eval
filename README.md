@@ -4,11 +4,11 @@ Hi, I'm Ash, a professional software engineer with 5 years of fullstack javascri
 
 # stack workshop
 
-I've been upto mentoring peers and juniors in the past few years and would like to keep doing so because I feel driven by this purpose. Setting up `stack workshop` is an effort to channelize this effort so I can keep doing what I like through this channel. I also aim to facilitate any one who finds themselves in a position to help others through mentorship via `stack workshop`.
+I've been upto mentoring peers and juniors in the past few years and would like to keep doing so because I feel driven by this purpose. Setting up [`stack workshop`](https://github.com/stackworkshop/) is an attempt at channelizing my effort so I can keep doing what I love. I also aim to facilitate any one who finds themselves in a position to help others through mentorship via `stack workshop`.
 
 # self-eval
 
-This repo is a place where a student can plan, log, evaluate and get help (with) their software development journey. The quickest way to get started is by forking this repo and using any project you can find in the `Projects` tab of this repo.
+This repo is a place where a student can plan, log, evaluate and get help along their software development journey. The quickest way to get started is by forking this repo and using any project you can find in the `Projects` tab of this repo.
 
 ### project
 
@@ -28,7 +28,7 @@ Whatever you plan to work on from the `Inbox` column, then moves here before you
 
 ##### In progress
 
-As the heading describes, this column is where you'd have all the cards that are in progress, ideally 1 or 2 at any given time. A card from here can be either moved to either of `Done` or `Help!` columns. If you need help with any card, add a note detailing your problem and what you've tried but hasn't worked.
+As the heading describes, this column is where you'd have all the cards that are in progress, ideally 1 or 2 at any given time. A card from here can be either moved to either of `Done` or `Help!` columns. If you need help with any card, add a note detailing your problem and what you've tried but hasn't worked and move it to the `Help!` column.
 
 ##### Done
 
@@ -41,3 +41,7 @@ Cards in this column are basically to-do items for me. I will go through every s
 ### future
 
 I will keep this file up to date with the latest info on how to get the most out of `stack workshop`, and this repo and project.
+
+### reach out
+
+If there is anything not covered above, feel free to reach out to me at `hi [at] ashsidhu [dot] com`
